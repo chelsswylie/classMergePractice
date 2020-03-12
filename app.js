@@ -2,8 +2,8 @@
 const addFood = document.querySelector("#submit");
 
 const foodInput = document.querySelector("#food-input");
-
-function  fruitSort() {
+//comment
+function fruitSort() {
 
   let item = foodInput.value;
 
